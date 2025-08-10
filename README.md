@@ -39,7 +39,7 @@ I’m a passionate Data Engineer who thrives at the intersection of data archite
 
 ### 📫 Let’s Connect
 
-- [LinkedIn]([https://www.linkedin.com/in/sumitbondlewad](https://www.linkedin.com/in/sumitbondlewad/))
-- [Portfolio / Blog]([https://yourwebsite.com](https://sumitbondlewad14.github.io/sumitbPortfolio/))
+- [LinkedIn]([https://www.linkedin.com/in/sumitbondlewad])
+- [Portfolio / Blog]([https://sumitbondlewad14.github.io/sumitbPortfolio/])
 
 ---
