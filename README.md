@@ -14,7 +14,7 @@ I’m a passionate Data Engineer who thrives at the intersection of data archite
 - 🌱 Continuously learning about **cloud data platforms**, **data modeling**, and **machine learning**
 - 👯 Looking to collaborate on open-source **data engineering** or **BI** projects
 - 💬 Ask me about **ETL pipelines**, **data warehousing**, **SQL**, or **dashboarding**
-- 📫 Reach me at: [sumitbondlewad@example.com](mailto:sumitbondlewad@example.com) *(replace with your real email)*
+- 📫 Reach me at: [bondlewadsumit@gmail.com](mailto:bondlewadsumit@gmail.com) 
 - ⚡ Fun fact: I enjoy solving real-world problems with clean and efficient data solutions.
 
 ---
@@ -39,7 +39,7 @@ I’m a passionate Data Engineer who thrives at the intersection of data archite
 
 ### 📫 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/sumitbondlewad) *(replace with your real link)*
-- [Portfolio / Blog](https://yourwebsite.com) *(optional)*
+- [LinkedIn]([https://www.linkedin.com/in/sumitbondlewad](https://www.linkedin.com/in/sumitbondlewad/))
+- [Portfolio / Blog]([https://yourwebsite.com](https://sumitbondlewad14.github.io/sumitbPortfolio/))
 
 ---
